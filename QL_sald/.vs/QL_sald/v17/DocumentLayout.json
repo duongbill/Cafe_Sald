@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\nh\u00E2n_vi\u00EAn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:nh\u00E2n_vi\u00EAn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btap_lon\\cafe_sald\\ql_sald\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btap_lon\\cafe_sald\\ql_sald\\s\u1EEDa_m\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\s\u1EEDa_m\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:s\u1EEDa_m\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,19 +19,15 @@
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:package_dif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btap_lon\\cafe_sald\\ql_sald\\nh\u00E2n_vi\u00EAn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:nh\u00E2n_vi\u00EAn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btap_lon\\cafe_sald\\ql_sald\\themmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\themmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:themmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btap_lon\\cafe_sald\\ql_sald\\nh\u00E2n_vi\u00EAn1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\nh\u00E2n_vi\u00EAn1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:nh\u00E2n_vi\u00EAn1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btap_lon\\cafe_sald\\ql_sald\\nh\u00E2n_vi\u00EAn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\nh\u00E2n_vi\u00EAn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:nh\u00E2n_vi\u00EAn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -110,12 +110,11 @@
               "ToolTip": "E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\themmon.cs [Design]",
               "RelativeToolTip": "themmon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:43:19.773Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-15T17:43:19.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "nh\u00E2n_vi\u00EAn1.cs [Design]",
               "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\nh\u00E2n_vi\u00EAn1.cs",
               "RelativeDocumentMoniker": "nh\u00E2n_vi\u00EAn1.cs",
@@ -140,31 +139,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "s\u1EEDa_m\u00F3n.cs [Design]",
               "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\s\u1EEDa_m\u00F3n.cs",
               "RelativeDocumentMoniker": "s\u1EEDa_m\u00F3n.cs",
               "ToolTip": "E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\s\u1EEDa_m\u00F3n.cs [Design]",
               "RelativeToolTip": "s\u1EEDa_m\u00F3n.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:25:56.51Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-15T17:25:56.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "package_dif.cs [Design]",
               "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\package_dif.cs",
               "RelativeDocumentMoniker": "package_dif.cs",
               "ToolTip": "E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\package_dif.cs [Design]",
               "RelativeToolTip": "package_dif.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T17:07:09.531Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-15T17:07:09.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "test.cs [Design]",
               "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btap_lon\\Cafe_Sald\\QL_sald\\test.cs",
               "RelativeDocumentMoniker": "test.cs",
