@@ -161,6 +161,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lịch_sử_mua_hàng.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Lịch_sử_mua_hàng.Designer.cs">
+      <DependentUpon>Lịch_sử_mua_hàng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nhân_viên1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="nhân_viên1.Designer.cs">
+      <DependentUpon>nhân_viên1.cs</DependentUpon>
+    </Compile>
     <Compile Include="package_dif.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -222,8 +234,30 @@
     <Compile Include="test.Designer.cs">
       <DependentUpon>test.cs</DependentUpon>
     </Compile>
+    <Compile Include="themmon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="themmon.Designer.cs">
+      <DependentUpon>themmon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thêm_nhân_viên.cs" />
+    <Compile Include="thêm_nhân_viên.Designer.cs">
+      <DependentUpon>thêm_nhân_viên.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xóa_món.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="xóa_món.Designer.cs">
+      <DependentUpon>xóa_món.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lịch_sử_mua_hàng.resx">
+      <DependentUpon>Lịch_sử_mua_hàng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nhân_viên1.resx">
+      <DependentUpon>nhân_viên1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="package_dif.resx">
       <DependentUpon>package_dif.cs</DependentUpon>
@@ -256,6 +290,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="test.resx">
       <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="themmon.resx">
+      <DependentUpon>themmon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thêm_nhân_viên.resx">
+      <DependentUpon>thêm_nhân_viên.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xóa_món.resx">
+      <DependentUpon>xóa_món.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
