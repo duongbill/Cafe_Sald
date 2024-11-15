@@ -161,7 +161,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="package_dif.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -173,7 +172,7 @@
     </Compile>
     <Compile Include="packages.Designer.cs">
       <DependentUpon>packages.cs</DependentUpon>
-=======
+    </Compile>
     <Compile Include="menubanh_snack.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -203,10 +202,14 @@
     </Compile>
     <Compile Include="menutratraicay.Designer.cs">
       <DependentUpon>menutratraicay.cs</DependentUpon>
->>>>>>> a0408cbb915892982891e7981eacf2ee37736825
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="test.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -216,13 +219,12 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
     <EmbeddedResource Include="package_dif.resx">
       <DependentUpon>package_dif.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="packages.resx">
       <DependentUpon>packages.cs</DependentUpon>
-=======
+    </EmbeddedResource>
     <EmbeddedResource Include="menubanh_snack.resx">
       <DependentUpon>menubanh_snack.cs</DependentUpon>
     </EmbeddedResource>
@@ -237,18 +239,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="menutratraicay.resx">
       <DependentUpon>menutratraicay.cs</DependentUpon>
->>>>>>> a0408cbb915892982891e7981eacf2ee37736825
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <EmbeddedResource Include="test.resx">
       <DependentUpon>test.cs</DependentUpon>
     </EmbeddedResource>
@@ -266,12 +262,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-<<<<<<< HEAD
-=======
   <ItemGroup>
     <None Include="img\Cafe\bạc xỉu%281%29%281%29.png" />
   </ItemGroup>
->>>>>>> a0408cbb915892982891e7981eacf2ee37736825
   <ItemGroup>
     <None Include="img\baocao.png" />
   </ItemGroup>

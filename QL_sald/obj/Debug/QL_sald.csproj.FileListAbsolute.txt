@@ -262,3 +262,20 @@ E:\HK1_2024_2025\.NET\btl\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.csproj.Up2Dat
 E:\HK1_2024_2025\.NET\btl\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.exe
 E:\HK1_2024_2025\.NET\btl\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.pdb
 >>>>>>> a0408cbb915892982891e7981eacf2ee37736825
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.csproj.AssemblyReference.cache
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.csproj.SuggestedBindingRedirects.cache
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.exe.config
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.Form1.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.package_dif.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.packages.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.menubanh_snack.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.menucafe.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.menuthucuongdaxay.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.menutrasua.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.menutratraicay.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.test.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.csproj.GenerateResource.cache
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.exe
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.pdb
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.Properties.Resources.resources
+D:\study\monky4\.net\Tiem_cafe_sald\QL_sald\obj\Debug\QL_sald.csproj.CoreCompileInputs.cache
