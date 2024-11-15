@@ -73,26 +73,6 @@ namespace QL_sald.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap back {
-            get {
-                object obj = ResourceManager.GetObject("back", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap back1 {
-            get {
-                object obj = ResourceManager.GetObject("back1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap bacxiulacsua_1__1_ {
             get {
                 object obj = ResourceManager.GetObject("bacxiulacsua(1)(1)", resourceCulture);
@@ -133,29 +113,9 @@ namespace QL_sald.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap basil_add_solid {
-            get {
-                object obj = ResourceManager.GetObject("basil_add-solid", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap basil_add_solid1 {
             get {
                 object obj = ResourceManager.GetObject("basil_add-solid1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap bim_bim_sữa_dừae_1__1_ {
-            get {
-                object obj = ResourceManager.GetObject("bim bim sữa dừae(1)(1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -333,26 +293,6 @@ namespace QL_sald.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap f7_lessthan_square_fill__2_ {
-            get {
-                object obj = ResourceManager.GetObject("f7_lessthan-square-fill (2)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap f7_lessthan_square_fill__2_1 {
-            get {
-                object obj = ResourceManager.GetObject("f7_lessthan-square-fill (2)1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap history {
             get {
                 object obj = ResourceManager.GetObject("history", resourceCulture);
@@ -393,29 +333,9 @@ namespace QL_sald.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap material_symbols_change_circle {
-            get {
-                object obj = ResourceManager.GetObject("material-symbols_change-circle", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap material_symbols_change_circle1 {
             get {
                 object obj = ResourceManager.GetObject("material-symbols_change-circle1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap mdi_search {
-            get {
-                object obj = ResourceManager.GetObject("mdi_search", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -483,16 +403,6 @@ namespace QL_sald.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap next {
-            get {
-                object obj = ResourceManager.GetObject("next", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap nhanvien {
             get {
                 object obj = ResourceManager.GetObject("nhanvien", resourceCulture);
@@ -516,26 +426,6 @@ namespace QL_sald.Properties {
         internal static System.Drawing.Bitmap phin_gato_1__1_ {
             get {
                 object obj = ResourceManager.GetObject("phin_gato(1)(1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap previous {
-            get {
-                object obj = ResourceManager.GetObject("previous", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap previous1 {
-            get {
-                object obj = ResourceManager.GetObject("previous1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -666,46 +556,6 @@ namespace QL_sald.Properties {
         internal static System.Drawing.Bitmap ts_tứ_quý_sương_sáo_1__1_1 {
             get {
                 object obj = ResourceManager.GetObject("ts tứ quý sương sáo(1)(1)1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap typcn_delete {
-            get {
-                object obj = ResourceManager.GetObject("typcn_delete", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap typcn_delete__1_ {
-            get {
-                object obj = ResourceManager.GetObject("typcn_delete (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap typcn_delete__1__1__1_ {
-            get {
-                object obj = ResourceManager.GetObject("typcn_delete (1)(1)(1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap typcn_delete__1_1 {
-            get {
-                object obj = ResourceManager.GetObject("typcn_delete (1)1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
