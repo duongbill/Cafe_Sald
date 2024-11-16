@@ -35,7 +35,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::QL_sald.Properties.Resources.bánh_kem_dâu_1__1_;
-            this.pictureBox1.Location = new System.Drawing.Point(209, 53);
+            this.pictureBox1.Location = new System.Drawing.Point(163, 41);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(518, 295);
             this.pictureBox1.TabIndex = 0;
