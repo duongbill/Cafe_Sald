@@ -16,5 +16,10 @@ namespace QL_sald
         {
             InitializeComponent();
         }
+
+        private void btnNumberTables_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
