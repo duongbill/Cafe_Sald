@@ -399,13 +399,7 @@
     <None Include="img\trangchu-active.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="img\Cafe\back.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="img\Cafe\bacxiulacsua%281%29%281%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\Cafe\basil_add-solid.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="img\Cafe\bơ arabica.png" />
@@ -432,31 +426,7 @@
     <None Include="img\Cafe\đường đen%281%29%281%29.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="img\Cafe\f7_lessthan-square-fill %282%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\Cafe\material-symbols_change-circle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\Cafe\mdi_search.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\Cafe\next.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\Cafe\previous.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="img\Cafe\traxanh%281%29%281%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\Cafe\typcn_delete %281%29%281%29%281%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\Cafe\typcn_delete %281%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\Cafe\typcn_delete.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="img\Resources\basil_add-solid.png" />
