@@ -172,11 +172,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Lịch_sử_mua_hàng.cs">
+    <Compile Include="Cài_đặt.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Lịch_sử_mua_hàng.Designer.cs">
-      <DependentUpon>Lịch_sử_mua_hàng.cs</DependentUpon>
+    <Compile Include="Cài_đặt.Designer.cs">
+      <DependentUpon>Cài_đặt.cs</DependentUpon>
     </Compile>
     <Compile Include="menu_cafe.cs">
       <SubType>Form</SubType>
@@ -251,6 +251,12 @@
     <Compile Include="sửa_món.Designer.cs">
       <DependentUpon>sửa_món.cs</DependentUpon>
     </Compile>
+    <Compile Include="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
     <Compile Include="themmon.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -286,8 +292,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Lịch_sử_mua_hàng.resx">
-      <DependentUpon>Lịch_sử_mua_hàng.cs</DependentUpon>
+    <EmbeddedResource Include="Cài_đặt.resx">
+      <DependentUpon>Cài_đặt.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="menu_cafe.resx">
       <DependentUpon>menu_cafe.cs</DependentUpon>
@@ -326,6 +332,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="sửa_món.resx">
       <DependentUpon>sửa_món.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="themmon.resx">
       <DependentUpon>themmon.cs</DependentUpon>

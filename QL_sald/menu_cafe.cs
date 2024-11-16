@@ -31,5 +31,10 @@ namespace QL_sald
         {
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

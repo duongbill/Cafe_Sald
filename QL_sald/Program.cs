@@ -16,7 +16,8 @@ namespace QL_sald
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new test());
+            ///Application.Run(new menu_cafe());
         }
     }
 }

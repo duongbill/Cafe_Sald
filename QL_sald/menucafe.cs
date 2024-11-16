@@ -25,16 +25,16 @@ namespace QL_sald
 
         private void OpenChildForm(UserControl childControl)
         {
-            panel3.Controls.Clear();  // Xóa tất cả điều khiển con hiện có
+            guna2TextBox1.Controls.Clear();  // Xóa tất cả điều khiển con hiện có
             childControl.Dock = DockStyle.Fill; // Đặt Dock cho UserControl vừa khít
-            panel3.Controls.Add(childControl); // Thêm UserControl mới vào panel
+            guna2TextBox1.Controls.Add(childControl); // Thêm UserControl mới vào panel
             childControl.BringToFront(); // Đưa lên phía trước
         }
 
         // Sự kiện Click cho button3 để chuyển sang menutrasua
         private void button3_Click(object sender, EventArgs e)
         {
-            OpenChildForm(menuTraSua);  // Hiển thị menutrasua trong panel3
+            OpenChildForm(menuTraSua);  // Hiển thị menutrasua trong guna2TextBox1
         }
 
         // Các sự kiện khác
