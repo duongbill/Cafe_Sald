@@ -14,34 +14,8 @@ namespace QL_sald
     {
         public packages()
         {
-<<<<<<< HEAD
-            InitializeComponent();
-        }
-
-        private void content_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void guna2Button2_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void guna2Button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2CustomGradientPanel7_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-        
-    }
-=======
             InitializeComponent();
 
         }
     }
->>>>>>> origin/main
 }
