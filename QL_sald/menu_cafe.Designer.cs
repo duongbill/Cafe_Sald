@@ -704,14 +704,11 @@
             // 
             // pictureBox1
             // 
-<<<<<<< HEAD
             this.pictureBox1.Image = global::QL_sald.Properties.Resources.bánh_kem_dâu_1__1_;
             this.pictureBox1.Location = new System.Drawing.Point(163, 41);
-=======
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.Location = new System.Drawing.Point(0, -1);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
->>>>>>> 58b046fce21306365d638ebb8b06b0aced7dc565
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(195, 194);
             this.pictureBox1.TabIndex = 0;

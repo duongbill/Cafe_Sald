@@ -1,19 +1,54 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|f:\\workspace\\program-language\\winformc#\\product\\sald_cafe\\cafe_sald\\ql_sald\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|f:\\workspace\\program-language\\winformc#\\product\\sald_cafe\\cafe_sald\\ql_sald\\packages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:packages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|f:\\workspace\\program-language\\winformc#\\product\\sald_cafe\\cafe_sald\\ql_sald\\package_dif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:package_dif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\package_dif.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:package_dif.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|f:\\workspace\\program-language\\winformc#\\product\\sald_cafe\\cafe_sald\\ql_sald\\menu_cafe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menu_cafe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menu_cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menu_cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|f:\\workspace\\program-language\\winformc#\\product\\sald_cafe\\cafe_sald\\ql_sald\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|f:\\workspace\\program-language\\winformc#\\product\\sald_cafe\\cafe_sald\\ql_sald\\menubanh_snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menubanh_snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\package_dif.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:package_dif.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menu_cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menu_cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\package_dif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:package_dif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,20 +67,8 @@
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menu_cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menubanh_snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menubanh_snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\l\u1ECBch_s\u1EED_mua_h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:l\u1ECBch_s\u1EED_mua_h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\nh\u00E2n_vi\u00EAn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -64,27 +83,8 @@
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-=======
-  "WorkspaceRootPath": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\cafe_sald\\ql_sald\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\cafe_sald\\ql_sald\\c\u00E0i_\u0111\u1EB7t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:c\u00E0i_\u0111\u1EB7t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\menu_cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menu_cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 58b046fce21306365d638ebb8b06b0aced7dc565
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,12 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-<<<<<<< HEAD
+              "DocumentIndex": 12,
               "Title": "SignIn.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\SignIn.cs",
               "RelativeDocumentMoniker": "SignIn.cs",
@@ -119,8 +118,75 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "packages.Designer.cs",
+              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.Designer.cs",
+              "RelativeDocumentMoniker": "packages.Designer.cs",
+              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.Designer.cs",
+              "RelativeToolTip": "packages.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:27:02.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "menu_cafe.Designer.cs",
+              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menu_cafe.Designer.cs",
+              "RelativeDocumentMoniker": "menu_cafe.Designer.cs",
+              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menu_cafe.Designer.cs",
+              "RelativeToolTip": "menu_cafe.Designer.cs",
+              "ViewState": "AgIAALIDAAAAAAAAAAAhwMECAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:26:01.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:25:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:25:07.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "menubanh_snack.cs [Design]",
+              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menubanh_snack.cs",
+              "RelativeDocumentMoniker": "menubanh_snack.cs",
+              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menubanh_snack.cs [Design]",
+              "RelativeToolTip": "menubanh_snack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:24:57.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "package_dif.cs [Design]",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\package_dif.cs",
               "RelativeDocumentMoniker": "package_dif.cs",
@@ -131,25 +197,20 @@
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-=======
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
+              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
+              "RelativeDocumentMoniker": "L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
+              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
+              "RelativeToolTip": "L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T21:22:36.976Z",
-              "IsPinned": true,
-              "EditorCaption": ""
->>>>>>> 58b046fce21306365d638ebb8b06b0aced7dc565
+              "WhenOpened": "2024-11-16T16:24:44.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-<<<<<<< HEAD
+              "DocumentIndex": 11,
               "Title": "package_dif.Designer.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\package_dif.Designer.cs",
               "RelativeDocumentMoniker": "package_dif.Designer.cs",
@@ -157,34 +218,37 @@
               "RelativeToolTip": "package_dif.Designer.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T15:21:37.374Z"
+              "WhenOpened": "2024-11-16T15:21:37.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "packages.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.cs",
               "RelativeDocumentMoniker": "packages.cs",
               "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.cs",
               "RelativeToolTip": "packages.cs",
-              "ViewState": "AgIAAHMBAAAAAAAAAADwv4cBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T09:59:22.742Z"
+              "WhenOpened": "2024-11-16T09:59:22.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "packages.cs [Design]",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.cs",
               "RelativeDocumentMoniker": "packages.cs",
               "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\packages.cs [Design]",
               "RelativeToolTip": "packages.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T09:51:23.623Z"
+              "WhenOpened": "2024-11-16T09:51:23.623Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "package_dif.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\package_dif.cs",
               "RelativeDocumentMoniker": "package_dif.cs",
@@ -196,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "menubanh_snack.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menubanh_snack.cs",
               "RelativeDocumentMoniker": "menubanh_snack.cs",
@@ -204,23 +268,12 @@
               "RelativeToolTip": "menubanh_snack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:30:47.611Z"
+              "WhenOpened": "2024-11-16T08:30:47.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
-              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
-              "RelativeDocumentMoniker": "L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
-              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
-              "RelativeToolTip": "L\u1ECBch_s\u1EED_mua_h\u00E0ng.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:30:39.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "menu_cafe.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menu_cafe.cs",
               "RelativeDocumentMoniker": "menu_cafe.cs",
@@ -228,11 +281,12 @@
               "RelativeToolTip": "menu_cafe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:30:28.847Z"
+              "WhenOpened": "2024-11-16T08:30:28.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "nh\u00E2n_vi\u00EAn1.cs [Design]",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\nh\u00E2n_vi\u00EAn1.cs",
               "RelativeDocumentMoniker": "nh\u00E2n_vi\u00EAn1.cs",
@@ -243,67 +297,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "SignIn.Designer.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\SignIn.Designer.cs",
               "RelativeDocumentMoniker": "SignIn.Designer.cs",
               "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\SignIn.Designer.cs",
               "RelativeToolTip": "SignIn.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-=======
-              "Title": "C\u00E0i_\u0111\u1EB7t.cs [Design]",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\C\u00E0i_\u0111\u1EB7t.cs",
-              "RelativeDocumentMoniker": "C\u00E0i_\u0111\u1EB7t.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\C\u00E0i_\u0111\u1EB7t.cs [Design]",
-              "RelativeToolTip": "C\u00E0i_\u0111\u1EB7t.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T16:08:17.029Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2024-11-15T21:06:44.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "test.cs [Design]",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\test.cs",
-              "RelativeDocumentMoniker": "test.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\test.cs [Design]",
-              "RelativeToolTip": "test.cs [Design]",
->>>>>>> 58b046fce21306365d638ebb8b06b0aced7dc565
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T15:54:11.566Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "menu_cafe.cs [Design]",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menu_cafe.cs",
               "RelativeDocumentMoniker": "menu_cafe.cs",
               "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menu_cafe.cs [Design]",
               "RelativeToolTip": "menu_cafe.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T22:26:45.339Z"
+              "WhenOpened": "2024-11-15T22:26:45.339Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T21:22:36.976Z"
+              "WhenOpened": "2024-11-15T21:22:36.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "SignIn.cs [Design]",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\SignIn.cs",
               "RelativeDocumentMoniker": "SignIn.cs",
@@ -314,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "menucafe.cs",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menucafe.cs",
               "RelativeDocumentMoniker": "menucafe.cs",
@@ -322,28 +353,20 @@
               "RelativeToolTip": "menucafe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T20:11:46.939Z"
+              "WhenOpened": "2024-11-15T20:11:46.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "menucafe.cs [Design]",
               "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menucafe.cs",
               "RelativeDocumentMoniker": "menucafe.cs",
-              "ToolTip": "D:\\study\\monky4\\.net\\Cafe_Sald\\QL_sald\\menucafe.cs [Design]",
+              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_cafe\\Cafe_Sald\\QL_sald\\menucafe.cs [Design]",
+              "RelativeToolTip": "menucafe.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T20:11:25.341Z"
-=======
-              "DocumentIndex": 2,
-              "Title": "menu_cafe.cs [Design]",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\menu_cafe.cs",
-              "RelativeDocumentMoniker": "menu_cafe.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\Cafe_Sald\\QL_sald\\menu_cafe.cs [Design]*",
-              "RelativeToolTip": "menu_cafe.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T10:10:13.967Z",
+              "WhenOpened": "2024-11-15T20:11:25.341Z",
               "EditorCaption": " [Design]"
->>>>>>> 58b046fce21306365d638ebb8b06b0aced7dc565
             }
           ]
         }

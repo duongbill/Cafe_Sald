@@ -63,7 +63,7 @@
             // 
             this.btn_delete.AutoSize = true;
             this.btn_delete.Image = ((System.Drawing.Image)(resources.GetObject("btn_delete.Image")));
-            this.btn_delete.Location = new System.Drawing.Point(1401, 9);
+            this.btn_delete.Location = new System.Drawing.Point(1401, 27);
             this.btn_delete.Name = "btn_delete";
             this.btn_delete.Size = new System.Drawing.Size(27, 16);
             this.btn_delete.TabIndex = 3;
