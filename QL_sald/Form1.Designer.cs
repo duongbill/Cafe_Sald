@@ -57,20 +57,6 @@
             this.panel1.Size = new System.Drawing.Size(1362, 73);
             this.panel1.TabIndex = 0;
             // 
-<<<<<<< HEAD
-            // btn_delete
-            // 
-            this.btn_delete.AutoSize = true;
-            this.btn_delete.Image = ((System.Drawing.Image)(resources.GetObject("btn_delete.Image")));
-            this.btn_delete.Location = new System.Drawing.Point(1401, 27);
-            this.btn_delete.Name = "btn_delete";
-            this.btn_delete.Size = new System.Drawing.Size(27, 16);
-            this.btn_delete.TabIndex = 3;
-            this.btn_delete.Text = "     ";
-            this.btn_delete.Click += new System.EventHandler(this.btn_delete_Click);
-            // 
-=======
->>>>>>> origin/main
             // button9
             // 
             this.button9.BackColor = System.Drawing.SystemColors.Control;

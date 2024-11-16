@@ -424,17 +424,6 @@
             // 
             // label11
             // 
-<<<<<<< HEAD
-            this.pictureBox1.Image = global::QL_sald.Properties.Resources.bánh_kem_dâu_1__1_;
-            this.pictureBox1.Location = new System.Drawing.Point(163, 41);
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox1.Location = new System.Drawing.Point(0, -1);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(195, 194);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-=======
             this.label11.AutoSize = true;
             this.label11.ForeColor = System.Drawing.SystemColors.ActiveBorder;
             this.label11.Location = new System.Drawing.Point(4, 193);
@@ -499,7 +488,6 @@
             this.panel20.Name = "panel20";
             this.panel20.Size = new System.Drawing.Size(148, 216);
             this.panel20.TabIndex = 9;
->>>>>>> origin/main
             // 
             // pictureBox2
             // 

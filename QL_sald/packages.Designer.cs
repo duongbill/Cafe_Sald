@@ -28,10 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             this.content = new System.Windows.Forms.Panel();
@@ -1094,13 +1090,8 @@
             this.guna2CustomGradientPanel12.PerformLayout();
             this.guna2CustomGradientPanel13.ResumeLayout(false);
             this.guna2CustomGradientPanel13.PerformLayout();
-<<<<<<< HEAD
             this.ResumeLayout(false);
 
-=======
-            this.ResumeLayout(false);
-
->>>>>>> origin/main
         }
         #endregion
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
