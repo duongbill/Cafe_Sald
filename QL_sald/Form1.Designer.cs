@@ -31,7 +31,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btn_delete = new System.Windows.Forms.Label();
             this.button9 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.btn_ls = new System.Windows.Forms.Button();
@@ -50,25 +49,13 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel1.Controls.Add(this.btn_delete);
             this.panel1.Controls.Add(this.button9);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1440, 73);
+            this.panel1.Size = new System.Drawing.Size(1362, 73);
             this.panel1.TabIndex = 0;
-            // 
-            // btn_delete
-            // 
-            this.btn_delete.AutoSize = true;
-            this.btn_delete.Image = ((System.Drawing.Image)(resources.GetObject("btn_delete.Image")));
-            this.btn_delete.Location = new System.Drawing.Point(1401, 9);
-            this.btn_delete.Name = "btn_delete";
-            this.btn_delete.Size = new System.Drawing.Size(27, 16);
-            this.btn_delete.TabIndex = 3;
-            this.btn_delete.Text = "     ";
-            this.btn_delete.Click += new System.EventHandler(this.btn_delete_Click);
             // 
             // button9
             // 
@@ -79,9 +66,9 @@
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button9.ForeColor = System.Drawing.Color.White;
             this.button9.Image = global::QL_sald.Properties.Resources.logo;
-            this.button9.Location = new System.Drawing.Point(51, 12);
+            this.button9.Location = new System.Drawing.Point(26, 12);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(234, 46);
+            this.button9.Size = new System.Drawing.Size(187, 46);
             this.button9.TabIndex = 0;
             this.button9.UseVisualStyleBackColor = false;
             // 
@@ -101,7 +88,7 @@
             this.panel2.Location = new System.Drawing.Point(0, 73);
             this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(324, 777);
+            this.panel2.Size = new System.Drawing.Size(238, 689);
             this.panel2.TabIndex = 1;
             // 
             // btn_ls
@@ -115,7 +102,7 @@
             this.btn_ls.Location = new System.Drawing.Point(0, 516);
             this.btn_ls.Margin = new System.Windows.Forms.Padding(4);
             this.btn_ls.Name = "btn_ls";
-            this.btn_ls.Size = new System.Drawing.Size(322, 86);
+            this.btn_ls.Size = new System.Drawing.Size(236, 86);
             this.btn_ls.TabIndex = 6;
             this.btn_ls.Text = "     Lịch sử mua hàng";
             this.btn_ls.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -132,7 +119,7 @@
             this.btn_ct.Location = new System.Drawing.Point(0, 602);
             this.btn_ct.Margin = new System.Windows.Forms.Padding(4);
             this.btn_ct.Name = "btn_ct";
-            this.btn_ct.Size = new System.Drawing.Size(322, 86);
+            this.btn_ct.Size = new System.Drawing.Size(236, 86);
             this.btn_ct.TabIndex = 7;
             this.btn_ct.Text = "          Cài đặt";
             this.btn_ct.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -149,7 +136,7 @@
             this.btn_nv.Location = new System.Drawing.Point(0, 430);
             this.btn_nv.Margin = new System.Windows.Forms.Padding(4);
             this.btn_nv.Name = "btn_nv";
-            this.btn_nv.Size = new System.Drawing.Size(322, 86);
+            this.btn_nv.Size = new System.Drawing.Size(236, 86);
             this.btn_nv.TabIndex = 5;
             this.btn_nv.Text = "          Nhân viên";
             this.btn_nv.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -166,7 +153,7 @@
             this.btn_bc.Location = new System.Drawing.Point(0, 344);
             this.btn_bc.Margin = new System.Windows.Forms.Padding(4);
             this.btn_bc.Name = "btn_bc";
-            this.btn_bc.Size = new System.Drawing.Size(322, 86);
+            this.btn_bc.Size = new System.Drawing.Size(236, 86);
             this.btn_bc.TabIndex = 4;
             this.btn_bc.Text = "          Báo cáo";
             this.btn_bc.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -183,7 +170,7 @@
             this.btnMenu.Location = new System.Drawing.Point(0, 172);
             this.btnMenu.Margin = new System.Windows.Forms.Padding(4);
             this.btnMenu.Name = "btnMenu";
-            this.btnMenu.Size = new System.Drawing.Size(322, 86);
+            this.btnMenu.Size = new System.Drawing.Size(236, 86);
             this.btnMenu.TabIndex = 3;
             this.btnMenu.Text = "          Menu";
             this.btnMenu.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -200,7 +187,7 @@
             this.btn_kh.Location = new System.Drawing.Point(0, 258);
             this.btn_kh.Margin = new System.Windows.Forms.Padding(4);
             this.btn_kh.Name = "btn_kh";
-            this.btn_kh.Size = new System.Drawing.Size(322, 86);
+            this.btn_kh.Size = new System.Drawing.Size(236, 86);
             this.btn_kh.TabIndex = 2;
             this.btn_kh.Text = "          Kho hàng ";
             this.btn_kh.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -217,7 +204,7 @@
             this.btn_dh.Location = new System.Drawing.Point(0, 86);
             this.btn_dh.Margin = new System.Windows.Forms.Padding(4);
             this.btn_dh.Name = "btn_dh";
-            this.btn_dh.Size = new System.Drawing.Size(322, 86);
+            this.btn_dh.Size = new System.Drawing.Size(236, 86);
             this.btn_dh.TabIndex = 1;
             this.btn_dh.Text = "          Đơn hàng";
             this.btn_dh.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -235,7 +222,7 @@
             this.btn_tc.Location = new System.Drawing.Point(0, 0);
             this.btn_tc.Margin = new System.Windows.Forms.Padding(4);
             this.btn_tc.Name = "btn_tc";
-            this.btn_tc.Size = new System.Drawing.Size(322, 86);
+            this.btn_tc.Size = new System.Drawing.Size(236, 86);
             this.btn_tc.TabIndex = 0;
             this.btn_tc.Text = "          Trang chủ";
             this.btn_tc.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -244,27 +231,26 @@
             // panel_Body
             // 
             this.panel_Body.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel_Body.BackgroundImage")));
-            this.panel_Body.Location = new System.Drawing.Point(322, 73);
+            this.panel_Body.Location = new System.Drawing.Point(235, 75);
             this.panel_Body.Name = "panel_Body";
-            this.panel_Body.Size = new System.Drawing.Size(1118, 784);
+            this.panel_Body.Size = new System.Drawing.Size(1127, 687);
             this.panel_Body.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1440, 850);
+            this.ClientSize = new System.Drawing.Size(1362, 762);
             this.Controls.Add(this.panel_Body);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = " ";
             this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -283,7 +269,6 @@
         private System.Windows.Forms.Button btn_kh;
         private System.Windows.Forms.Button btn_dh;
         private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Label btn_delete;
         private System.Windows.Forms.Panel panel_Body;
     }
 }
