@@ -15,6 +15,7 @@ namespace QL_sald
         public packages()
         {
             InitializeComponent();
+<<<<<<< HEAD
         }
 
         private void content_Paint(object sender, PaintEventArgs e)
@@ -391,5 +392,13 @@ namespace QL_sald
         {
 
         }
+=======
+        }
+
+        private void btnNumberTables_Click(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> 58b046fce21306365d638ebb8b06b0aced7dc565
     }
 }
