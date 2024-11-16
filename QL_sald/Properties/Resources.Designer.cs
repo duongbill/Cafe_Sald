@@ -113,16 +113,6 @@ namespace QL_sald.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap basil_add_solid1 {
-            get {
-                object obj = ResourceManager.GetObject("basil_add-solid1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap bimbim_ngô_1__1_ {
             get {
                 object obj = ResourceManager.GetObject("bimbim ngô(1)(1)", resourceCulture);
@@ -333,9 +323,9 @@ namespace QL_sald.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap material_symbols_change_circle1 {
+        internal static System.Drawing.Bitmap logo1 {
             get {
-                object obj = ResourceManager.GetObject("material-symbols_change-circle1", resourceCulture);
+                object obj = ResourceManager.GetObject("logo1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

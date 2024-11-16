@@ -1,42 +1,53 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace QL_sald
 {
     public partial class Form1 : Form
     {
-        private packages packageControl = new packages();
+      
+        private menu_cafe menuControl = new menu_cafe();  // `menu_cafe` là Form con
+
         public Form1()
         {
             InitializeComponent();
-            slidePanel.Height = btnPackage.Height;
-            panel3.Controls.Add(packageControl);
-            packageControl.BringToFront();
-        }
-        private void btnHome_Click(object sender, EventArgs e)
-        {
-            slidePanel.Height = btnHome.Height;
-            slidePanel.Top = btnHome.Top;
+
+            // Gán sự kiện Click cho btnMenu
+            btnMenu.Click += new EventHandler(btnMenu_Click);
+
+      
         }
 
+        private Form currentFormChild;
 
-        private void btnPackage_Click(object sender, EventArgs e)
+        private void OpenChildForm(Form childForm)
         {
-            slidePanel.Height = btnPackage.Height;
-            slidePanel.Top = btnPackage.Top;
-            packageControl.BringToFront();
-        }
-        private void button10_Click(object sender, EventArgs e)
-        {
-            this.Close();
+            if (currentFormChild != null)
+            {
+                currentFormChild.Close();
+            }
+
+            currentFormChild = childForm;
+            childForm.TopLevel = false;                      // Đặt TopLevel là false để Form có thể được nhúng
+            childForm.FormBorderStyle = FormBorderStyle.None; // Bỏ viền của Form con
+            childForm.Dock = DockStyle.Fill;                 // Tùy chọn để Form con tự động giãn ra toàn bộ Panel
+            panel_Body.Controls.Clear();                    // Xóa các điều khiển hiện tại trong Panel
+            panel_Body.Controls.Add(childForm);             // Thêm Form con vào Panel
+            panel_Body.Tag = childForm;                     // Đặt tag để tham chiếu Form con
+            childForm.BringToFront();
+            childForm.Show();                               // Hiển thị Form con
         }
 
+        // Sự kiện Click cho nút btnMenu để hiển thị menuControl
+        private void btnMenu_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(menuControl); // Truyền Form con menuControl vào
+        }
+
+        // Sự kiện thoát ứng dụng
+        private void btn_delete_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

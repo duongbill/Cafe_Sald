@@ -15,6 +15,7 @@ namespace QL_sald
         public packages()
         {
             InitializeComponent();
+
         }
     }
 }

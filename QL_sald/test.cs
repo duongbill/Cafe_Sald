@@ -16,23 +16,5 @@ namespace QL_sald
         {
             InitializeComponent();
         }
-
-        private void flowLayoutPanel8_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            Form1 n = new Form1();
-            this.Hide();
-            n.ShowDialog();
-            this.Show();
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
