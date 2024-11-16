@@ -14,6 +14,7 @@ namespace QL_sald
     {
         public packages()
         {
+<<<<<<< HEAD
             InitializeComponent();
         }
 
@@ -37,4 +38,10 @@ namespace QL_sald
         }
         
     }
+=======
+            InitializeComponent();
+
+        }
+    }
+>>>>>>> origin/main
 }

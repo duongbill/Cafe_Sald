@@ -78,7 +78,6 @@ D:\study\monky4\.net\Cafe_Sald\QL_sald\bin\Debug\zh-Hans\Microsoft.Data.SqlClien
 D:\study\monky4\.net\Cafe_Sald\QL_sald\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 D:\study\monky4\.net\Cafe_Sald\QL_sald\obj\Debug\QL_sald.csproj.AssemblyReference.cache
 D:\study\monky4\.net\Cafe_Sald\QL_sald\obj\Debug\QL_sald.Form1.resources
-D:\study\monky4\.net\Cafe_Sald\QL_sald\obj\Debug\QL_sald.Lịch_sử_mua_hàng.resources
 D:\study\monky4\.net\Cafe_Sald\QL_sald\obj\Debug\QL_sald.menu_cafe.resources
 D:\study\monky4\.net\Cafe_Sald\QL_sald\obj\Debug\QL_sald.nhân_viên1.resources
 D:\study\monky4\.net\Cafe_Sald\QL_sald\obj\Debug\QL_sald.package_dif.resources
@@ -201,6 +200,7 @@ E:\HK1_2024_2025\.NET\Cafe_Sald\QL_sald\obj\Debug\QL_sald.exe
 E:\HK1_2024_2025\.NET\Cafe_Sald\QL_sald\obj\Debug\QL_sald.pdb
 E:\HK1_2024_2025\.NET\Cafe_Sald\QL_sald\obj\Debug\QL_sald.test.resources
 E:\HK1_2024_2025\.NET\Cafe_Sald\QL_sald\obj\Debug\QL_sald.Cài_đặt.resources
+<<<<<<< HEAD
 F:\WorkSpace\Program-Language\WinformC#\product\sald_cafe\Cafe_Sald\QL_sald\obj\Debug\QL_sald.csproj.AssemblyReference.cache
 F:\WorkSpace\Program-Language\WinformC#\product\sald_cafe\Cafe_Sald\QL_sald\obj\Debug\QL_sald.Form1.resources
 F:\WorkSpace\Program-Language\WinformC#\product\sald_cafe\Cafe_Sald\QL_sald\obj\Debug\QL_sald.Cài_đặt.resources
@@ -303,3 +303,7 @@ F:\WorkSpace\Program-Language\WinformC#\product\sald_cafe\Cafe_Sald\QL_sald\bin\
 F:\WorkSpace\Program-Language\WinformC#\product\sald_cafe\Cafe_Sald\QL_sald\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 F:\WorkSpace\Program-Language\WinformC#\product\sald_cafe\Cafe_Sald\QL_sald\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 F:\WorkSpace\Program-Language\WinformC#\product\sald_cafe\Cafe_Sald\QL_sald\obj\Debug\QL_sald.csproj.Up2Date
+=======
+D:\study\monky4\.net\Cafe_Sald\QL_sald\obj\Debug\QL_sald.Cài_đặt.resources
+D:\study\monky4\.net\Cafe_Sald\QL_sald\obj\Debug\QL_sald.test.resources
+>>>>>>> origin/main

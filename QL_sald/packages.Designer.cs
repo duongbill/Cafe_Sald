@@ -28,6 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             this.content = new System.Windows.Forms.Panel();
@@ -127,7 +131,7 @@
             this.guna2Button1.Size = new System.Drawing.Size(141, 39);
             this.guna2Button1.TabIndex = 5;
             this.guna2Button1.Text = "Dùng tại bàn";
-            this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click);
+
             // 
             // guna2Button2
             // 
@@ -144,7 +148,7 @@
             this.guna2Button2.Size = new System.Drawing.Size(141, 39);
             this.guna2Button2.TabIndex = 6;
             this.guna2Button2.Text = "Mang đi";
-            this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
+
             // 
             // content
             // 
@@ -166,7 +170,7 @@
             this.content.Name = "content";
             this.content.Size = new System.Drawing.Size(1003, 602);
             this.content.TabIndex = 1;
-            this.content.Paint += new System.Windows.Forms.PaintEventHandler(this.content_Paint);
+
             // 
             // guna2CustomGradientPanel1
             // 
@@ -591,7 +595,7 @@
             this.guna2CustomGradientPanel7.Name = "guna2CustomGradientPanel7";
             this.guna2CustomGradientPanel7.Size = new System.Drawing.Size(172, 96);
             this.guna2CustomGradientPanel7.TabIndex = 11;
-            this.guna2CustomGradientPanel7.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2CustomGradientPanel7_Paint);
+
             // 
             // textBox6
             // 
@@ -1090,10 +1094,14 @@
             this.guna2CustomGradientPanel12.PerformLayout();
             this.guna2CustomGradientPanel13.ResumeLayout(false);
             this.guna2CustomGradientPanel13.PerformLayout();
+<<<<<<< HEAD
             this.ResumeLayout(false);
 
-        }
+=======
+            this.ResumeLayout(false);
 
+>>>>>>> origin/main
+        }
         #endregion
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
